@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/py-puzzles/bin/python",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.terminal.activateEnvironment": true
+}
